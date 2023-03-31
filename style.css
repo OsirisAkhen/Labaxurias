@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu{
+    padding:50px;
+    height:30px;
+    width:100%;
+    background-color:rgb(157, 170, 196);
+}
+
+.menu p{
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* .toolbar{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(100, 60, 116);
+}
+
+.toolbar p{
+    text-align: center;
+} */
+
+.container{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.col{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    
+}
